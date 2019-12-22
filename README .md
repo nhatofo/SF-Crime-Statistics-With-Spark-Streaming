@@ -1,7 +1,7 @@
 ## SF Crime Statistics with Spark Streaming
 
 ### Objective
-This project is to analyse Francisco crime incidents, and we will provide statistical analyses of the data using Apache Spark Structured Streaming. 
+This project is to analyse the San Francisco crime incidents, and we will provide statistical analyses of the data using Apache Spark Structured Streaming. 
 
 ### Development Environment:
 
